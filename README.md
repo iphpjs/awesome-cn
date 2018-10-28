@@ -392,19 +392,19 @@
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
 
 
-## Databases
+## 数据库
 
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb#readme)
 - [Neo4j](https://github.com/neueda/awesome-neo4j#readme)
-- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
+- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL 数据库。
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
-- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) - Graph computing framework.
-- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
-- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
-- [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
+- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) - 图形计算框架。
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - 对象关系数据库。
+- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - 面向文档的NoSQL数据库。
+- [HBase](https://github.com/rayokota/awesome-hbase#readme) - 分布式，可扩展的大数据存储。
 
 
 ## Media
