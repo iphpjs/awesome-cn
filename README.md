@@ -360,26 +360,26 @@
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - 游戏引擎。
 
 
-## Development Environment
+## 开发环境
 
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
-- [Fish](https://github.com/fisherman/awesome-fish-shell#readme) - User-friendly shell.
+- [Fish](https://github.com/fisherman/awesome-fish-shell#readme) - 用户友好的shell。
 - [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)
-- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Git存储库的托管服务。
 	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
-- [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - 增强的 `git` 命令行接口。
 - [SSH](https://github.com/moul/awesome-ssh#readme)
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
-- [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
-- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
-- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) - Productivity app for macOS.
+- [Hyper](https://github.com/bnb/awesome-hyper#readme) - 基于Web技术构建的跨平台终端应用程序。
+- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - 跨平台面向对象的shell。
+- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) - 用于提高macOS生产效率的app。
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 
 
