@@ -274,32 +274,32 @@
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - 用于Swift中的服务器端开发。
 
 
-## Computer Science
+## 计算机科学
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
 - [Data Science](https://github.com/bulutyazilim/awesome-datascience#readme)
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
-	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
-	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
-	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - 使用Ruby学习，实现和应用机器学习。
+	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Apple的机器学习框架的模型。
+	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - 使用Java，R，Python和Scala编写的开源分布式机器学习平台。
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
-	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
+	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - 非密码学家使用密码学的理论基础。
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
-	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - Library for machine intelligence.
-	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - 神经网络。
+	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - 机器智能库。
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - 最有用的深度学习论文。
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
 - [Open Source Society University](https://github.com/ossu/computer-science#readme)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
-- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
+- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - 学习开发自己的搜索引擎。
 
 
 ## Big Data
