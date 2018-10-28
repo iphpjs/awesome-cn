@@ -434,19 +434,19 @@
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 
 
-## Security
+## 安全
 
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
-- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - 夺旗赛。
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
-- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - 蜜罐，旨在诱使攻击者企图破坏组织中的信息系统。
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
-- [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Web 应用和服务的安全性。
+- [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - 通过在没有钥匙的情况下操纵其组件来解锁锁的技术。
 
 
 ## Content Management Systems
