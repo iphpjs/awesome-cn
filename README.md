@@ -302,14 +302,14 @@
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - 学习开发自己的搜索引擎。
 
 
-## Big Data
+## 大数据
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - 分布式存储和处理非常大的数据集的框架。
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
-- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
+- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - 用于大规模数据处理的统一引擎。
 
 
 ## Theory
