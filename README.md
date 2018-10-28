@@ -407,20 +407,19 @@
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) - 分布式，可扩展的大数据存储。
 
 
-## Media
+## 多媒体
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
 - [Fonts](https://github.com/brabadu/awesome-fonts#readme)
-- [Codeface](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
+- [Codeface](https://github.com/chrissimpkins/codeface#readme) - 文本编辑器字体。
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
-- [GIF](https://github.com/davisonio/awesome-gif#readme) - Image format known for animated images.
+- [GIF](https://github.com/davisonio/awesome-gif#readme) - 已知用于动画图像的图像格式。
 - [Music](https://github.com/ciconia/awesome-music#readme)
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents#readme)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
-- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - Pixel-level digital art.
-- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
-
+- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - 像素级数字艺术。
+- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - 跨平台解决方案，用于录制，转换和流式传输音频和视频。
 
 ## Learn
 
