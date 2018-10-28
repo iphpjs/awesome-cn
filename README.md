@@ -336,13 +336,13 @@
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
 
 
-## Editors
+## 编辑器
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
 - [Vim](https://github.com/mhinz/vim-galore#readme)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
-- [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
+- [Atom](https://github.com/mehcode/awesome-atom#readme) - 开源和可扩展的文本编辑器。
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - 跨平台的开源文本编辑器。
 
 
 ## Gaming
