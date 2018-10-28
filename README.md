@@ -459,11 +459,11 @@
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - 内容优先的CMS。
 
 
-## Hardware
+## 硬件
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
-- [Electronics](https://github.com/monostable/awesome-electronics#readme) - For electronic engineers and hobbyists.
+- [Electronics](https://github.com/monostable/awesome-electronics#readme) - 适用于电子工程师和业余爱好者。
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon#readme)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
 
