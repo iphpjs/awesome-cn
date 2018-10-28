@@ -604,8 +604,8 @@
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - 资助个人程序员或开源项目的开发。
 
 
-## License
+## 协议
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内, [iphpjs](https://iphpjs.com) 已放弃对此作品的所有版权及相关或邻接权利。
