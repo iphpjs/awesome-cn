@@ -421,16 +421,16 @@
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - 像素级数字艺术。
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - 跨平台解决方案，用于录制，转换和流式传输音频和视频。
 
-## Learn
+## 学习
 
-- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
+- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - 交互式教程。
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
 - [Speaking](https://github.com/matteofigus/awesome-speaking#readme)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
 - [Computer History](https://github.com/watson/awesome-computer-history#readme)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
-- [Educational Games](https://github.com/yrgo/awesome-eg#readme) - Learn while playing.
+- [Educational Games](https://github.com/yrgo/awesome-eg#readme) - 在玩的同时学习。
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 
 
