@@ -246,7 +246,7 @@
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - 用于JavaScript的HTML模板库。
 
 
-## Back-End Development
+## 后端开发
 
 - [Django](https://github.com/rosarior/awesome-django#readme)
 - [Flask](https://github.com/humiaozuzu/awesome-flask#readme)
@@ -254,24 +254,24 @@
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme)
 - [Pyramid](https://github.com/uralbash/awesome-pyramid#readme)
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
-- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP框架。
 - [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme)
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
-- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
+- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP框架。
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-- [Rails](https://github.com/ekremkaraca/awesome-rails#readme) - Web app framework for Ruby.
-	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
+- [Rails](https://github.com/ekremkaraca/awesome-rails#readme) - Ruby的Web应用程序框架。
+	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - 包管理器。
 - [Phalcon](https://github.com/phalcon/awesome-phalcon#readme)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
-- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
+- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web 服务器。
 - [Dropwizard](https://github.com/stve/awesome-dropwizard#readme)
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme)
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme)
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme)
-- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
-- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
-- [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
+- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java Web应用程序框架。
+- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 用于在JVM上构建响应式应用程序的工具包。
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建，更改和版本化基础架构的工具。
+- [Vapor](https://github.com/Cellane/awesome-vapor#readme) - 用于Swift中的服务器端开发。
 
 
 ## Computer Science
