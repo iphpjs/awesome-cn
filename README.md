@@ -383,9 +383,9 @@
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 
 
-## Entertainment
+## 娱乐
 
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
+- [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - 科幻。
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
 - [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/vredniy/awesome-newsletters#readme)
