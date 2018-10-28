@@ -179,7 +179,7 @@
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) - 具有受Haskell和ML影响的依赖类型的通用纯函数式编程语言。
 
 
-## Front-End Development
+## 前端开发
 
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
@@ -189,19 +189,19 @@
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
-- [React](https://github.com/enaqx/awesome-react#readme) - App framework.
-	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
+- [React](https://github.com/enaqx/awesome-react#readme) - 应用框架。
+	- [Relay](https://github.com/expede/awesome-relay#readme) - 构建数据驱动的React应用程序的框架。
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
-- [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
-- [Angular](https://github.com/gdi2290/awesome-angular#readme) - App framework.
-- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
-- [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
-- [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
+- [Polymer](https://github.com/Granze/awesome-polymer#readme) - 用于开发Web组件的JavaScript库。
+- [Angular](https://github.com/gdi2290/awesome-angular#readme) - 应用框架。
+- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - 应用框架。
+- [HTML5](https://github.com/diegocard/awesome-html5#readme) - 用于网站和网络应用的标记语言。
+- [SVG](https://github.com/willianjusten/awesome-svg#readme) - 基于XML的矢量图像格式。
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme)
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme)
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
-- [Ember](https://github.com/nmec/awesome-ember#readme) - App framework.
+- [Ember](https://github.com/nmec/awesome-ember#readme) - 应用框架。
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
 - [Meteor](https://github.com/Urigo/awesome-meteor#readme)
@@ -210,40 +210,40 @@
 - [Web Typography](https://github.com/deanhume/typography#readme)
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
 - [Material Design](https://github.com/sachin1092/awesome-material#readme)
-- [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
+- [D3](https://github.com/wbkd/awesome-d3#readme) - 用于生成动态交互式数据可视化的库。
 - [Emails](https://github.com/jonathandion/awesome-emails#readme)
-- [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
+- [jQuery](https://github.com/petk/awesome-jquery#readme) - 用于DOM操作地易于使用的JavaScript库。
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
 - [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
-- [A-Frame VR](https://github.com/aframevr/awesome-aframe#readme) - Virtual reality for web browsers.
-- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
+- [A-Frame VR](https://github.com/aframevr/awesome-aframe#readme) - 用于Web浏览器的虚拟现实。
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - 实用的响应式JavaScript框架。
 - [Text Editing](https://github.com/dok/awesome-text-editing#readme)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
-- [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
-- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
-- [Aurelia](https://github.com/behzad888/awesome-aurelia#readme) - App framework.
+- [Vue.js](https://github.com/vuejs/awesome-vue#readme) - 应用框架。
+- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - 应用框架。
+- [Aurelia](https://github.com/behzad888/awesome-aurelia#readme) - 应用框架。
 - [Charting](https://github.com/zingchart/awesome-charting#readme)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
-- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
-- [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
+- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS工具。
+- [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - React的富文本编辑器框架。
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
-- [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
-- [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
-- [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - Module bundler.
-- [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
-- [Sass](https://github.com/Famolus/awesome-sass#readme) - CSS preprocessor.
-- [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
-- [Less](https://github.com/LucasBassetti/awesome-less#readme) - CSS preprocessor.
-- [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API for rendering 3D graphics.
-- [Preact](https://github.com/ooade/awesome-preact#readme) - App framework.
+- [choo](https://github.com/choojs/awesome-choo#readme) - 应用框架。
+- [Redux](https://github.com/brillout/awesome-redux#readme) - JavaScript应用程序的状态容器。
+- [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - 模块打包器。
+- [Browserify](https://github.com/browserify/awesome-browserify#readme) - 模块打包器。
+- [Sass](https://github.com/Famolus/awesome-sass#readme) - CSS预处理器。
+- [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - 企业级UI设计语言。
+- [Less](https://github.com/LucasBassetti/awesome-less#readme) - CSS预处理器。
+- [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - 用于渲染3D图形的JavaScript API。
+- [Preact](https://github.com/ooade/awesome-preact#readme) - 应用框架。
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
-- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
-- [Hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme) - Tiny JavaScript library for building web apps.
-- [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - HTML templating library for JavaScript.
+- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器渲染的React应用程序的框架。
+- [Hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme) - 用于构建的Web应用程序的微型的JavaScript库。
+- [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - 用于JavaScript的HTML模板库。
 
 
 ## Back-End Development
