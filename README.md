@@ -74,17 +74,17 @@
 - [杂项](#miscellaneous)
 
 
-## Platforms
+## 平台
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - JavaScript runtime built on Chrome's V8 JavaScript engine.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - 基于Chrome的V8 JavaScript引擎构建的JavaScript运行时。
+- [前端开发](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
+- [iOS](https://github.com/vsouza/awesome-ios#readme) - Apple手机和平板电脑的移动操作系统。
 - [Android](https://github.com/JStumpp/awesome-android#readme)
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
-- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
+- [物联网(IoT) 与 混合应用(Hybrid Apps)](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
+- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - 使用JavaScript / HTML / CSS的跨平台原生桌面应用程序。
+- [Cordova](https://github.com/busterc/awesome-cordova#readme) - 适用于Hybrid Apps的JavaScript API。
 - [React Native](https://github.com/jondot/awesome-react-native#readme)
-- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
+- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin#readme) - 移动应用程序开发IDE，测试和分发。
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme)
@@ -92,26 +92,26 @@
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
 	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
+- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Apple Watch的操作系统。
 - [JVM](https://github.com/deephacks/awesome-jvm#readme)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
-- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
-- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
-- [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-- [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
-- [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions#readme) - Cross-browser extension system.
-- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
-- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
-- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
+- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P超媒体协议。
+- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - 移动开发工具。
+- [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - 云平台即服务。
+- [树莓派Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - 信用卡大小的计算机旨在教孩子们编程，但可以做更多事。
+- [Qt](https://github.com/JesseTG/awesome-qt#readme) - 跨平台GUI应用程序框架。
+- [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions#readme) - 跨浏览器扩展系统。
+- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - 使用Ruby编写适用于iOS，Android，macOS，tvOS和watchOS的跨平台本机应用程序。
+- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - 为不同的电视平台创建应用。
+- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - 适用于Linux的简单且无干扰的桌面环境。
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
-- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
-- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
-- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google’s mobile SDK for crafting native interfaces on iOS and Android.
-- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - 虚拟家庭助理。
+- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - 为开发人员设计的云计算平台。
+- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google的移动SDK，用于在iOS和Android上制作原生界面。
+- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - 将本地控制和隐私放在第一位的开源家庭自动化助理。
 
 
 ## Programming Languages
