@@ -468,13 +468,13 @@
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
 
 
-## Business
+## 商业
 
 - [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
-- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
-- [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - 目标设定和沟通最佳实践。
+- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - 领导人员并成为技术公司/环境中的经理。
+- [Indie](https://github.com/mezod/awesome-indie#readme) - 独立开发商业业务。
 
 
 ## Work
