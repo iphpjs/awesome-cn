@@ -449,14 +449,14 @@
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - 通过在没有钥匙的情况下操纵其组件来解锁锁的技术。
 
 
-## Content Management Systems
+## 内容管理系统CMS
 
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
-- [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
-- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
-- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
-- [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
+- [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS专注于灵活性和用户体验。
+- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - 轻量级的基于PHP的CMS。
+- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - 可扩展的基于PHP的CMS。
+- [Craft CMS](https://github.com/craftcms/awesome#readme) - 内容优先的CMS。
 
 
 ## Hardware
