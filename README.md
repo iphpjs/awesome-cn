@@ -494,12 +494,12 @@
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
 
-## Decentralized Systems
+## 分布式系统
 
-- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
-- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
-- [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
+- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - 面向软件开发人员的比特币服务和工具。
+- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - 开源分布式结算网络。
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - 非金融区块链应用程序。
+- [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - 开源分散式微博网络。
 
 ## Miscellaneous
 
