@@ -345,19 +345,19 @@
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - 跨平台的开源文本编辑器。
 
 
-## Gaming
+## 游戏
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
-- [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
+- [Godot](https://github.com/Calinou/awesome-godot#readme) - 游戏引擎。
 - [Open Source Games](https://github.com/leereilly/games#readme)
-- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
+- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - 游戏引擎。
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
-- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
-- [PICO-8](https://github.com/felipebueno/awesome-PICO-8#readme) - Fantasy console.
+- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - 游戏引擎。
+- [PICO-8](https://github.com/felipebueno/awesome-PICO-8#readme) - 游戏引擎。
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
-- [Construct 2](https://github.com/armaldio/awesome-construct#readme) - Game engine.
-- [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
+- [Construct 2](https://github.com/armaldio/awesome-construct#readme) - 游戏引擎。
+- [Gideros](https://github.com/stetso/awesome-gideros#readme) - 游戏引擎。
 
 
 ## Development Environment
