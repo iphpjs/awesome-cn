@@ -42,36 +42,36 @@
 <br>
 
 <p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.iphpjs.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
 <br>
 
 
-## Contents
+## 内容
 
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
-- [Hardware](#hardware)
-- [Business](#business)
-- [Work](#work)
-- [Networking](#networking)
-- [Decentralized Systems](#decentralized-systems)
-- [Miscellaneous](#miscellaneous)
+- [平台](#platforms)
+- [编程语言](#programming-languages)
+- [前端开发](#front-end-development)
+- [后端开发](#back-end-development)
+- [计算机科学](#computer-science)
+- [大数据](#big-data)
+- [理论](#theory)
+- [书籍](#books)
+- [编辑器](#editors)
+- [游戏](#gaming)
+- [开发环境](#development-environment)
+- [娱乐](#entertainment)
+- [数据库](#databases)
+- [多媒体](#media)
+- [学习](#learn)
+- [安全](#security)
+- [内容管理系统CMS](#content-management-systems)
+- [硬件](#hardware)
+- [商业](#business)
+- [工作](#work)
+- [网络](#networking)
+- [分布式系统](#decentralized-systems)
+- [杂项](#miscellaneous)
 
 
 ## Platforms
