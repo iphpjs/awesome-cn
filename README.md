@@ -312,7 +312,7 @@
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - 用于大规模数据处理的统一引擎。
 
 
-## Theory
+## 理论
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
@@ -322,7 +322,7 @@
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [Math](https://github.com/rossant/awesome-math#readme)
-- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - 遍历嵌套的数据结构。
 
 
 ## Books
