@@ -477,15 +477,15 @@
 - [Indie](https://github.com/mezod/awesome-indie#readme) - 独立开发商业业务。
 
 
-## Work
+## 工作
 
-- [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
+- [Slack](https://github.com/matiassingers/awesome-slack#readme) - 团队协作。
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
-- [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+- [Code Review](https://github.com/joho/awesome-code-review#readme) - 检查代码。
 
 
 ## Networking
