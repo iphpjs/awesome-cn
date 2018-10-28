@@ -3,7 +3,7 @@
 	<br>
 	<br>
 	<p>
-		<a href="https://www.patreon.com/sindresorhus">My open source work is supported by the community</a>
+		<a href="https://iphpjs.com">My open source work is supported by the community</a>
 	</p>
 	<p>
 		<sup>Special thanks to:</sup>
@@ -114,30 +114,30 @@
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - 将本地控制和隐私放在第一位的开源家庭自动化助理。
 
 
-## Programming Languages
+## 编程语言
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
-	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style 提示和检查。
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
 	- [Tips](https://github.com/loverajoel/jstips#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-	- [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
-	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - 包管理器。
+	- [AVA](https://github.com/avajs/awesome-ava#readme) - 试执行过程管理平台。
+	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - 代码检查。
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
-	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - 通过npm运行任务。
 - [Swift](https://github.com/matteocrippa/awesome-swift#readme)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
 - [Python](https://github.com/vinta/awesome-python#readme)
-	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
-	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
+	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Python 3中的异步I/O。
+	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - 音频/音乐科学研究。
+	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) -用于微控制器的Python版本。
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
@@ -166,17 +166,17 @@
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
 - [PHP](https://github.com/ziadoz/awesome-php#readme)
-	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
+	- [Composer](https://github.com/jakoch/awesome-composer#readme) - 包管理器。
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi#readme)
 - [Assembler](https://github.com/jaspergould/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
 - [Crystal](https://github.com/veelenga/awesome-crystal#readme)
-- [Frege](https://github.com/sfischer13/awesome-frege#readme) - Haskell for the JVM.
-- [CMake](https://github.com/onqtam/awesome-cmake#readme) - Build, test, and package software.
-- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - Object-oriented language targeting Adobe AIR.
-- [Eta](https://github.com/sfischer13/awesome-eta#readme) - Functional programming language for the JVM.
-- [Idris](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [Frege](https://github.com/sfischer13/awesome-frege#readme) - 用于JVM的Haskell。
+- [CMake](https://github.com/onqtam/awesome-cmake#readme) - 构建，测试和打包软件。
+- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - 目标为Adobe AIR的面向对象语言。
+- [Eta](https://github.com/sfischer13/awesome-eta#readme) - JVM的函数编程语言。
+- [Idris](https://github.com/joaomilho/awesome-idris#readme) - 具有受Haskell和ML影响的依赖类型的通用纯函数式编程语言。
 
 
 ## Front-End Development
